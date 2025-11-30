@@ -115,7 +115,7 @@ echo "===== NOW RUNNING tailscale up ====="
 echo "Click the authentication link that appears."
 echo ""
 
-pct exec $CTID -- tailscale up
+pct exec $CTID -- script -q -c "tailscale up" /dev/null
 
 echo ""
 echo "🎉 DONE!"
