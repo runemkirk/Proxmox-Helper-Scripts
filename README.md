@@ -1,5 +1,16 @@
-# Proxmox Helper Script — Tailscale for LXC 🎛️🐧
+# Proxmox Helper Scripts
 
+
+Tailscale on LXC  
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/runemkirk/Proxmox-Helper-Scripts/main/setup_tailscale_lxc.sh)
+```
+
+<details>
+  <summary>— Discription —</summary>
+
+ ## 🚀 Quick Install (Run on Proxmox Host) 
 [![Made with AI](https://img.shields.io/badge/Made%20with-AI-blueviolet.svg)](#)
 [![Proxmox](https://img.shields.io/badge/Proxmox-LXC-orange)](#)
 [![Tailscale](https://img.shields.io/badge/Tailscale-Enabled-success)](#)
@@ -19,7 +30,4 @@ A simple one-command installer that:
 
 ---
 
-## 🚀 Quick Install (Run on Proxmox Host)
-
-```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/runemkirk/Proxmox-Helper-Scripts/main/setup_tailscale_lxc.sh)
+</details>
