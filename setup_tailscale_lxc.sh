@@ -117,6 +117,6 @@ echo ""
 
 pct exec $CTID -- script -q -c "tailscale up" /dev/null
 
+
 echo ""
 echo "🎉 DONE!"
-echo "Script created with AI assistance (ChatGPT)."
