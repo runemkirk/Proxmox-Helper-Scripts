@@ -27,7 +27,7 @@ A simple one-command installer that:
 > ⚡ **Disclaimer!!! This script was created with AI assistance.**
 
 > ⚡**This script is in no way affiliated with neither tailscale or proxmox.**
-
+</details>
 ---
 <details>
 
