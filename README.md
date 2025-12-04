@@ -29,7 +29,18 @@ A simple one-command installer that:
 > ⚡**This script is in no way affiliated with neither tailscale or proxmox.**
 
 ---
+<details>
 
+  Docker on LXC Without sudo
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/runemkirk/Proxmox-Helper-Scripts/main/docker_compose_install.sh)
+```
+  
+  <summary>— Discription —</summary>
+[Official Docker Install](https://docs.docker.com/engine/install/debian/)
+  
+> ⚡ **Disclaimer!!! This script was created with AI assistance.**
+
+> ⚡**This script is in no way affiliated with neither tailscale or proxmox.**
 </details>
-
-[Docker Installi](https://docs.docker.com/engine/install/debian/)
